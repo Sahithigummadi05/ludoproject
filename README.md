@@ -1,4 +1,4 @@
-# ludosimulation
+# Ludo Project
 This project is a console-based implementation of the popular board game Ludo, written in C programming language. The game allows players to experience the classic fun of Ludo, following the traditional rules and gameplay mechanics.
 Features
 	•	Turn-based gameplay for multiple players.
