@@ -14,7 +14,6 @@ This project demonstrates the application of fundamental programming concepts in
 	•	Functions: Modular approach to implement various components of the game.
 	•	Random number generation: Simulating dice rolls using the rand() function.
  
- This project not only provides an engaging way to play Ludo but also serves as a stepping stone for exploring more complex game development and software projects. Whether you’re a beginner learning C or an enthusiast revisiting the joy of classic games, this project offers a fun and educational experience.
+here is the demo video of my project
+https://drive.google.com/file/d/1EMSOg24pLtUqelFD2C3P8nQiqaxHLGIR/view?usp=share_link
 
- Thank you for exploring this project!
- 
